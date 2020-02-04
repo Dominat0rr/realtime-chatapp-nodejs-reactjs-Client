@@ -1,3 +1,7 @@
+# realtime-chatapp-nodejs-reactjs-Client
+ Realtime Chat Application With Rooms
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
